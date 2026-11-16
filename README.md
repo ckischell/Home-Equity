@@ -1,2 +1,2 @@
 # Home-Equity
-This model/application takes a classification model and determines if someone is a good applicant for a home equity loan
+Deploys a Classification Model to Accept or Reject a Home Equity Loan Application
